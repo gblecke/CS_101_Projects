@@ -1,0 +1,8 @@
+Cryptography is both the practice and study of the techniques used
+to communicate and/or store information or data privately and
+securely, without being intercepted by third parties. This can include
+processes such as encryption, hashing, and steganography. Until the
+modern era, cryptography almost exclusively referred to encryption, but
+now cryptography is a broad field with applications in many critical
+areas of our lives.
+
